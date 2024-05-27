@@ -1,0 +1,5 @@
+.idea
+target
+log-*
+logs
+conf/tinkergraph.yaml
